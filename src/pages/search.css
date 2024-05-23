@@ -1,0 +1,30 @@
+
+.wrapper{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+.search_top{
+    width: 30%;
+}
+.search{
+  width: 100%;
+}
+.search input{
+    width: 100%;
+    padding: 15px 25px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+
+}
+.search_result{
+    width: 100%;
+
+}
+.search_result div{
+    width: 100%;
+    padding: 10px 25px;
+    background-color: #fff;
+}
